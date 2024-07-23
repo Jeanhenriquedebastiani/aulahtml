@@ -1,0 +1,4 @@
+git clone   https......
+gitadd.
+git commit -m "comentario"
+git push --set
